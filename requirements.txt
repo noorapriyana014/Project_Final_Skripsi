@@ -1,9 +1,0 @@
-streamlit
-pandas
-joblib
-textblob
-nltk
-scikit-learn
-imbalanced-learn
-matplotlib
-wordcloud
